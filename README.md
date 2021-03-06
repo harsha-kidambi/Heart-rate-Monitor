@@ -9,10 +9,14 @@ Both the devices used have an I2C two-wire interface and therefore keeps the wir
  •	Dupont cable
  •	Arduino nano
  
- ![ARDUINO](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c82b5815-a4a2-4540-8dcd-d9fa8166dafa/da06lj6-9012becd-723d-4800-9c10-667ec0385708.jpg/v1/fill/w_1600,h_675,q_75,strp/minimal_arduino_wallpaper_2560x1080_by_dssdiego_da06lj6-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3siaGVpZ2h0IjoiPD02NzUiLCJwYXRoIjoiXC9mXC9jODJiNTgxNS1hNGEyLTQ1NDAtOGRjZC1kOWZhODE2NmRhZmFcL2RhMDZsajYtOTAxMmJlY2QtNzIzZC00ODAwLTljMTAtNjY3ZWMwMzg1NzA4LmpwZyIsIndpZHRoIjoiPD0xNjAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.zQD30vRSwuSArSk8Rqrw7GJQfBwAPl96VGi3JLEJ9Uc)
- 
+  ![LED](https://www.electronicscomp.com/image/cache/catalog/0.91-inch-oled-display-module-800x800.jpg)
+  
+  ![MAX30100](https://i0.wp.com/zbotic.in/wp-content/uploads/2021/02/AI0240.jpg)
+
 # Software requirements:
  •	Arduino IDE
+ 
+  ![ARDUINO](https://www.vernier.com/wp-content/uploads/2020/05/Arduino-Loop-logo-768x492.png)
 
 # Hardware requirements:
  •	Soldering iron (generic)
@@ -23,6 +27,9 @@ Both the devices used have an I2C two-wire interface and therefore keeps the wir
  •	VCC
  •	SDA
  •	SCL
+ 
+  ![Picture1](https://user-images.githubusercontent.com/32995285/110212283-ab700d00-7ec0-11eb-836d-e29d6e8ab9d3.png)
+
  
 **At start up, the display prompts the user to place their finger on the sensor. when it detects a heart beat updates the heart symbol on the display to show that and starts recording the readings.**
 
